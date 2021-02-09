@@ -1,17 +1,13 @@
 body {
   font-family: Brush Script MT, Lucida Handwriting, cursive;
-}
-
-h1 {
-  font-size:
+  margin: 0;
+  padding: 0;
+  background-colour: grey;
 }
 
 #box {
-
-}
-
-.heading {
-
+  background-colour: blue;
+  padding 10px 10px 10px 10px;
 }
 
 #container {
@@ -21,6 +17,14 @@ h1 {
   border;
 }
 
+h1 {
+  font-size: 75%;
+  margin-bottom: 30px;
+}
+
+.heading {
+  font-size: 25%;
+}
 
 @media (min-width: 992px) {
 
