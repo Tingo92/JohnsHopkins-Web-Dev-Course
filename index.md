@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
   <head>
     <title>Assignment Solution for Module 2</title>
