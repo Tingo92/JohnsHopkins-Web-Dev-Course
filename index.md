@@ -1,7 +1,8 @@
+<!DOCTYPE html>
 <html>
   <head>
     <title>Assignment Solution for Module 2</title>
-	<link rel="stylesheet" type="text/css" href="https://github.com/Tingo92/JohnsHopkins-Web-Dev-Course/module2solution/module2solution.css">
+	  <link rel="stylesheet" type="text/css" href="https://github.com/Tingo92/JohnsHopkins-Web-Dev-Course/module2solution/module2solution.css">
   </head>
   <body>
     <h1>Our Menu</h1>
