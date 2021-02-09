@@ -1,1 +1,35 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+}
 
+h1 {
+  font-size:
+}
+
+#box {
+
+}
+
+.heading {
+
+}
+
+#container {
+  background-colour;
+  margin;
+  padding;
+  border;
+}
+
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+@media (max-width: 767px) {
+
+}
